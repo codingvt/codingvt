@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @codingvt
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me email me on panda.gaming2009s@Gmail.com
+Hey! My name is Mudasir Ahmad.
+
+I am currently studying for my A-Level (as of September 2026 till present).
+I am currently studying the subjects:
+
+  Maths
+  Further Maths
+  Physics
+  Chemistry
+
+I am currently working on a QML for Quantum Variational Eigensolver for my personal statement to universities.
+
+Contact me on: mudasir.ahmad2009y@gmail.com
+School email: 21mudasirahmad@derbymoorspencer.org.uk
 
 <!---
 codingvt/codingvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
